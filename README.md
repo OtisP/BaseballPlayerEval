@@ -4,4 +4,4 @@ We sought to address which qualities (statistical measures) in a position-player
 
 We measure the accuracy of our model by using team statistics to predict the number of games a team will win in a season. We then compare the predicted wins to the actual wins for each team to measure the performance of our model.
 
-Check out the paper.pdf for a detailed explanation of our methods and results! Or check out code/model_building.ipynb for the bulk of our code!
+Check out the [paper.pdf](paper.pdf) for a detailed explanation of our methods and results! Or check out [code/model_building.ipynb](code/model_building.ipynb) for the bulk of our code!
